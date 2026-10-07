@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+ 
+</head>
+<body>
+    <table border="1">
+       <tr>
+           <th> xyz restaurant</th>
+           
+       </tr>
+        <tr>
+            <th> menu</th>
+        </tr>
+        
+        <tr>
+            <th>items</th>
+            <th>price</th>
+        </tr>
+        
+        <tr>
+            <td>
+                1.Pizza
+                <dd>Chicken, Beef, Capsicum, Cheese</dd>
+            </td>
+            <td>800</td>
+ 
+        </tr>
+ 
+        <tr>
+            <td>
+                2.Burge
+                <dd>Chicken,cheese</dd>
+            </td>
+            <td>350</td>
+ 
+        </tr>
+ 
+        <tr>
+            <td>
+                3.Coffee
+                <dd>milk,coffee,sugar</dd>
+            </td>
+            <td>200</td>
+ 
+        </tr>
+            
+              
+            
+ 
+        
+            
+ 
+</body>
+</html>
